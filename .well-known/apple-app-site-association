@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "YOURTEAMID.com.yourcompany.musicverse",
+      "paths": ["/player"]
+    }]
+  }
+}
