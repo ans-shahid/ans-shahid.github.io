@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.http.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.music_verse_flutter_app",
+    "sha256_cert_fingerprints": ["CA:5C:45:C9:1C:C3:9B:80:20:A6:2C:0E:67:6D:7B:B6:73:55:A1:A3:0A:F8:47:CD:FD:B0:37:FC:D6:F7:CC:47"]
+  }
+}]
